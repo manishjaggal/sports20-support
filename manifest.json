@@ -1,0 +1,166 @@
+{
+  "baseURL": null,
+  "indexPath": "index.html",
+  "apps": [
+    {
+      "app": "Baseline",
+      "folder": "01-Baseline",
+      "supportPath": "baseline/support.html",
+      "privacyPath": "baseline/privacy.html",
+      "iconPath": "baseline/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Arc",
+      "folder": "02-Arc",
+      "supportPath": "arc/support.html",
+      "privacyPath": "arc/privacy.html",
+      "iconPath": "arc/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Touchline",
+      "folder": "03-Touchline",
+      "supportPath": "touchline/support.html",
+      "privacyPath": "touchline/privacy.html",
+      "iconPath": "touchline/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Crease",
+      "folder": "04-Crease",
+      "supportPath": "crease/support.html",
+      "privacyPath": "crease/privacy.html",
+      "iconPath": "crease/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Fairway",
+      "folder": "05-Fairway",
+      "supportPath": "fairway/support.html",
+      "privacyPath": "fairway/privacy.html",
+      "iconPath": "fairway/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Lane",
+      "folder": "06-Lane",
+      "supportPath": "lane/support.html",
+      "privacyPath": "lane/privacy.html",
+      "iconPath": "lane/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Stride",
+      "folder": "07-Stride",
+      "supportPath": "stride/support.html",
+      "privacyPath": "stride/privacy.html",
+      "iconPath": "stride/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Cadence",
+      "folder": "08-Cadence",
+      "supportPath": "cadence/support.html",
+      "privacyPath": "cadence/privacy.html",
+      "iconPath": "cadence/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Crux",
+      "folder": "09-Crux",
+      "supportPath": "crux/support.html",
+      "privacyPath": "crux/privacy.html",
+      "iconPath": "crux/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Bell",
+      "folder": "10-Bell",
+      "supportPath": "bell/support.html",
+      "privacyPath": "bell/privacy.html",
+      "iconPath": "bell/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Goldmark",
+      "folder": "11-Goldmark",
+      "supportPath": "goldmark/support.html",
+      "privacyPath": "goldmark/privacy.html",
+      "iconPath": "goldmark/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Pocket",
+      "folder": "12-Pocket",
+      "supportPath": "pocket/support.html",
+      "privacyPath": "pocket/privacy.html",
+      "iconPath": "pocket/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Sixside",
+      "folder": "13-Sixside",
+      "supportPath": "sixside/support.html",
+      "privacyPath": "sixside/privacy.html",
+      "iconPath": "sixside/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Dugout",
+      "folder": "14-Dugout",
+      "supportPath": "dugout/support.html",
+      "privacyPath": "dugout/privacy.html",
+      "iconPath": "dugout/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Split",
+      "folder": "15-Split",
+      "supportPath": "split/support.html",
+      "privacyPath": "split/privacy.html",
+      "iconPath": "split/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Spin",
+      "folder": "16-Spin",
+      "supportPath": "spin/support.html",
+      "privacyPath": "spin/privacy.html",
+      "iconPath": "spin/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Sideout",
+      "folder": "17-Sideout",
+      "supportPath": "sideout/support.html",
+      "privacyPath": "sideout/privacy.html",
+      "iconPath": "sideout/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Deck",
+      "folder": "18-Deck",
+      "supportPath": "deck/support.html",
+      "privacyPath": "deck/privacy.html",
+      "iconPath": "deck/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Swell",
+      "folder": "19-Swell",
+      "supportPath": "swell/support.html",
+      "privacyPath": "swell/privacy.html",
+      "iconPath": "swell/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    },
+    {
+      "app": "Platform",
+      "folder": "20-Platform",
+      "supportPath": "platform/support.html",
+      "privacyPath": "platform/privacy.html",
+      "iconPath": "platform/icon.png",
+      "supportEmail": "powerpassive46@gmail.com"
+    }
+  ]
+}
